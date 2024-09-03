@@ -1,0 +1,9 @@
+node_modules
+dist
+.vscode
+.next
+
+
+.env
+.env-sample
+.env-production
